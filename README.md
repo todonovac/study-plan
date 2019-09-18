@@ -20,6 +20,6 @@ Merge two sorted linked lists | 18-09-2019 | ND | 1
 Merge Sort for Linked Lists | 18-09-2019 | ND | 3
 Reverse a Linked List in groups of given size | 18-09-2019 | ND | 3
 Detect and Remove Loop in a Linked List | 18-09-2019 | ND | 2
-Add two numbers represented by linked lists | Set 1 | 18-09-2019 | ND | 2
+Add two numbers represented by linked lists | 18-09-2019 | ND | 2
 Rotate a Linked List | 18-09-2019 | ND | 2
 Generic Linked List in C | 18-09-2019 | ND | 1
